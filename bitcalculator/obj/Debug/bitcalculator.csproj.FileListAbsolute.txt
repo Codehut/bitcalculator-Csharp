@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\bin\Debug\bitcalculator.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\bin\Debug\bitcalculator.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\bin\Debug\bitcalculator.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\obj\Debug\bitcalculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\obj\Debug\bitcalculator.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\obj\Debug\bitcalculator.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\obj\Debug\bitcalculator.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\obj\Debug\bitcalculator.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\obj\Debug\bitcalculator.pdb
