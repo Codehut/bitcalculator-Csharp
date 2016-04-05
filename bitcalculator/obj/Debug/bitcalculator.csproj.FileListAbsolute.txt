@@ -7,3 +7,6 @@ C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator
 C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\obj\Debug\bitcalculator.csproj.GenerateResource.Cache
 C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\obj\Debug\bitcalculator.exe
 C:\Users\Admin\Documents\Visual Studio 2015\Projects\bitcalculator\bitcalculator\obj\Debug\bitcalculator.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Samples\bitcalculator\bitcalculator\bin\Debug\bitcalculator.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Samples\bitcalculator\bitcalculator\obj\Debug\bitcalculator.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Samples\bitcalculator\bitcalculator\obj\Debug\bitcalculator.pdb

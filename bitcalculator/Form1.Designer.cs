@@ -76,11 +76,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(282, 120);
+            this.label1.Location = new System.Drawing.Point(314, 120);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(108, 26);
+            this.label1.Size = new System.Drawing.Size(76, 26);
             this.label1.TabIndex = 13;
-            this.label1.Text = "Developed by Janak.\r\n@zsrestha";
+            this.label1.Text = "Developed by \r\n@zsrestha";
             // 
             // Form1
             // 
